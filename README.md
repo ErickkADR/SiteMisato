@@ -17,3 +17,11 @@ ESSE É UM VÍDEO DO PROJETO FINALIZADO
 -<img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> no HTML eu fiz a escrita do conteúdo, fiz listas e adicionei vídeos e fotos.
   
   -<img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Com o CSS fiz a aparência do site melhorar e também arrumei o conteúdo em diversos tamanhos de tela com media queries.
+
+<br />
+
+---
+
+<br />
+
+### Made with ♥ by Erick Alexandre Dantas Ribeiro |  [Contact](https://www.linkedin.com/in/erick-a-d-r-4033a5247/)
